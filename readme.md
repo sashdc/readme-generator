@@ -1,4 +1,4 @@
-# Readme Generator
+# Readme Generator (No license)
 
 
 ## Description
