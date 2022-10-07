@@ -4,8 +4,6 @@ const inquirer = require('inquirer');
 const fs = require('fs');
 const generateMarkdown = require('./utils/generateMarkdown');
 
-// const markDown = new genMD()
-
 
 // TODO: Create an array of questions for user input
 const questions = [
@@ -26,17 +24,17 @@ const questions = [
       },
       {
         type: 'input',
-        message: 'Any usage guidelines?',
+        message: 'Please enter any usage guidelines.',
         name: 'usage',
       },
       {
         type: 'input',
-        message: 'Any contribution guidelines?',
+        message: 'Please enter any contribution guidelines.',
         name: 'contribution',
       },
     {
       type: 'input',
-      message: 'Any test instructions?',
+      message: 'Please enter any test instructions.',
       name: 'test',
     },
     {
@@ -58,8 +56,6 @@ const questions = [
   ]
 
 // TODO: Create a function to write README file
-// .then((response) => {
-//     const readmeContent = generateReadme(response);
 
 function writeReadMe(answers) { 
       fs.writeFile('readme.md', generateMarkdown(answers), (err) =>

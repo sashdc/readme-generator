@@ -75,7 +75,7 @@ ${test}
 
 ## Questions
 
-If you have any further questions, please don't hesitate to reach out to me via [email](${email}), or on GitHub through [my GitHub profile](http://www.github.com/${github}).
+If you have any further questions, please don't hesitate to reach out to me via [email](mailto:${email}), or on GitHub through [my GitHub profile](http://www.github.com/${github}).
 `
 
 

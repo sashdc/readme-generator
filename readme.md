@@ -1,39 +1,37 @@
-# dsvdfv
+# Readme Generator
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Description
 
-sdfs
+I have created a README generator using command-line application to create a high quality README to allow project creators to devote more time to working on the projects themselves.
 
 ## Table of Contents 
 
 - [Installation](#installation)
 - [Usage](#usage)
 - [How To Contribute](#how-to-contribute)
-- [License](#license)
+
 - [Tests](#tests)
 - [Questions](#questions)
 
 ## Installation
 
-df
+N/A
 
 ## Usage
 
-sdf
+N/A
 
 ## How to Contribute
 
-sdf
+N/A
 
-## License
-    
-This project was created using MIT license
+
 
 ## Tests
 
-sd
+N/A
 
 ## Questions
 
-If you have any further questions, please don't hesitate to reach out to me via [email](sdf), or on GitHub through [my GitHub profile](http://www.github.com/df).
+If you have any further questions, please don't hesitate to reach out to me via [email](mailto:saharshdc@gmail.com), or on GitHub through [my GitHub profile](http://www.github.com/sashdc).
