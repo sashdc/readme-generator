@@ -20,13 +20,11 @@ N/A
 
 ## Usage
 
-N/A
+[Walkthrough Video](https://drive.google.com/file/d/1yfigcBVjU7vlJwPy5AJsxEXcV2X_qPmW/view)
 
 ## How to Contribute
 
 N/A
-
-
 
 ## Tests
 
